@@ -14,10 +14,11 @@ const Nav = styled.nav`
     z-index: 100;
     position: fixed;
     width: 100%;
+    background: white;
 `;
 
 const NavLink = css`
-    color: #fff;
+    color: black;
     display: flex;
     align-items: center;
     padding: 0 1rem;
